@@ -6,10 +6,13 @@
 </p>
 
 <p align="center">
-<a href="https://www.safesymptom.com/en-us"><strong>Explore the demo ↗</strong></a>
-&nbsp; · &nbsp; <a href="README.tr.md">Türkçe</a>
-&nbsp; · &nbsp; <a href="#screenshots">Screenshots</a>
-&nbsp; · &nbsp; <a href="#contact">Contact</a>
+<a href="https://www.safesymptom.com/en-us"><strong>Explore the demo &nbsp; →</strong></a>
+</p>
+
+<p align="center">
+<a href="README.tr.md">Türkçe</a> &nbsp; / &nbsp;
+<a href="#screenshots">Screenshots</a> &nbsp; / &nbsp;
+<a href="#contact">Contact</a>
 </p>
 
 ![SafeSymptom public landing page, desktop](assets/screenshots/home-en-desktop.png)
@@ -20,18 +23,24 @@
 
 A symptom conversation is only part of a care workflow. **The context needs to travel with it.** SafeSymptom explores that connection in one application, from patient intake and assessment summaries to clinician chat and handoff.
 
-<table>
+<table width="100%">
 <tr>
-<td width="72" align="center"><img src="assets/icons/conversation.png" alt="" width="44" height="44"></td>
-<td><strong>Guided conversation</strong><br>Follow-up questions collect context before an assessment is completed.</td>
+<td align="center" valign="middle">
+<p align="center"><img src="assets/icons/conversation.png" alt="" width="44" height="44"></p>
+<p align="center"><strong>Guided conversation</strong><br>Follow-up questions collect context before an assessment is completed.</p>
+</td>
 </tr>
 <tr>
-<td width="72" align="center"><img src="assets/icons/report.png" alt="" width="44" height="44"></td>
-<td><strong>Structured context</strong><br>Summaries and urgency categories make the conversation reviewable.</td>
+<td align="center" valign="middle">
+<p align="center"><img src="assets/icons/report.png" alt="" width="44" height="44"></p>
+<p align="center"><strong>Structured context</strong><br>Summaries and urgency categories make the conversation reviewable.</p>
+</td>
 </tr>
 <tr>
-<td width="72" align="center"><img src="assets/icons/handoff.png" alt="" width="44" height="44"></td>
-<td><strong>Connected handoffs</strong><br>Linked conversations preserve their authors and history across transfers.</td>
+<td align="center" valign="middle">
+<p align="center"><img src="assets/icons/handoff.png" alt="" width="44" height="44"></p>
+<p align="center"><strong>Connected handoffs</strong><br>Linked conversations preserve their authors and history across transfers.</p>
+</td>
 </tr>
 </table>
 
@@ -50,7 +59,7 @@ Follow-up questions keep a fictional scenario in context before an assessment is
 ![Patient chat interface with clearly fictional scenario text](assets/screenshots/patient-chat-en-desktop.png)
 
 <details>
-<summary><strong>View the mobile conversation</strong></summary>
+<summary>&nbsp; &nbsp; <strong>View the mobile conversation</strong></summary>
 
 <p align="center"><img src="assets/screenshots/patient-chat-en-mobile.png" alt="Mobile patient chat with fictional test messages" width="390"></p>
 
@@ -64,10 +73,11 @@ Follow-up questions keep a fictional scenario in context before an assessment is
 
 ### 03 · Privacy choices
 
-<img src="assets/icons/privacy.png" alt="" width="36" height="36"> &nbsp; **Export, consent withdrawal, and deletion requests are separate actions.**
+<p align="center"><img src="assets/icons/privacy.png" alt="" width="36" height="36"></p>
+<p align="center"><strong>Export, consent withdrawal, and deletion requests are separate actions.</strong></p>
 
 <details>
-<summary><strong>Explore the Privacy Center</strong></summary>
+<summary>&nbsp; &nbsp; <strong>Explore the Privacy Center</strong></summary>
 
 *This local fixture shows withdrawn consent. The other privacy controls remain available.*
 
@@ -87,7 +97,8 @@ Model usage is limited, and the demo may be unavailable during maintenance or wh
 
 ## Engineering focus
 
-<img src="assets/icons/engineering.png" alt="" width="36" height="36"> &nbsp; **TypeScript · Next.js · PostgreSQL / Supabase · Server-side AI integration**
+<p align="center"><img src="assets/icons/engineering.png" alt="" width="36" height="36"></p>
+<p align="center"><strong>TypeScript · Next.js · PostgreSQL / Supabase</strong><br>Server-side AI integration</p>
 
 - **Continuity:** durable conversation state and connected transfer history.
 - **Controlled access:** role-scoped clinical workflows and explicit consent.
@@ -108,16 +119,17 @@ Copyright © 2026 Alhan Akdemir. See [LICENSE](LICENSE) for the proprietary noti
 
 ## Get in touch
 
-<img src="assets/icons/contact.png" alt="" width="36" height="36"> &nbsp; **Feedback, collaboration, or a question?**
+<p align="center"><img src="assets/icons/contact.png" alt="" width="36" height="36"></p>
+<p align="center"><strong>Feedback, collaboration, or a question?</strong></p>
 
-| Topic | Where to go |
-| :--- | :--- |
-| Feedback, technical problems, collaboration | [support@safesymptom.com](mailto:support@safesymptom.com) |
-| Privacy and personal-data requests | [privacy@safesymptom.com](mailto:privacy@safesymptom.com) |
-| Security concerns | [Private reporting guidance](SECURITY.md) |
+<p align="center"><strong>Support &amp; collaboration</strong><br>Feedback, technical problems, and project enquiries<br><a href="mailto:support@safesymptom.com">support@safesymptom.com</a></p>
+
+<p align="center"><strong>Privacy</strong><br>Privacy and personal-data requests<br><a href="mailto:privacy@safesymptom.com">privacy@safesymptom.com</a></p>
+
+<p align="center"><strong>Security</strong><br><a href="SECURITY.md">Private reporting guidance</a></p>
 
 <details>
-<summary><strong>View the current Contact section</strong></summary>
+<summary>&nbsp; &nbsp; <strong>View the current Contact section</strong></summary>
 
 The current Contact section offers support and privacy email links. An in-app support form is not part of the current demo.
 

@@ -6,10 +6,13 @@
 </p>
 
 <p align="center">
-<a href="https://www.safesymptom.com"><strong>Demoyu incele ↗</strong></a>
-&nbsp; · &nbsp; <a href="README.md">English</a>
-&nbsp; · &nbsp; <a href="#screenshots">Ekran görüntüleri</a>
-&nbsp; · &nbsp; <a href="#contact">İletişim</a>
+<a href="https://www.safesymptom.com"><strong>Demoyu incele &nbsp; →</strong></a>
+</p>
+
+<p align="center">
+<a href="README.md">English</a> &nbsp; / &nbsp;
+<a href="#screenshots">Ekran görüntüleri</a> &nbsp; / &nbsp;
+<a href="#contact">İletişim</a>
 </p>
 
 ![SafeSymptom herkese açık ana sayfası, masaüstü](assets/screenshots/home-tr-desktop.png)
@@ -20,18 +23,24 @@
 
 Semptom sohbeti, bir sağlık iş akışının yalnızca bir parçasıdır. **Toplanan bağlamın sonraki aşamalara da taşınması gerekir.** SafeSymptom bu bağlantıyı tek bir uygulamada araştırıyor: hasta girişi ve değerlendirme özetlerinden doktor sohbetine ve aktarıma kadar.
 
-<table>
+<table width="100%">
 <tr>
-<td width="72" align="center"><img src="assets/icons/conversation.png" alt="" width="44" height="44"></td>
-<td><strong>Yönlendirmeli sohbet</strong><br>Takip soruları, değerlendirme tamamlanmadan önce senaryonun bağlamını toplar.</td>
+<td align="center" valign="middle">
+<p align="center"><img src="assets/icons/conversation.png" alt="" width="44" height="44"></p>
+<p align="center"><strong>Yönlendirmeli sohbet</strong><br>Takip soruları, değerlendirme tamamlanmadan önce senaryonun bağlamını toplar.</p>
+</td>
 </tr>
 <tr>
-<td width="72" align="center"><img src="assets/icons/report.png" alt="" width="44" height="44"></td>
-<td><strong>Yapılandırılmış bilgi</strong><br>Özetler ve aciliyet kategorileri, sohbeti incelenebilir bir biçime taşır.</td>
+<td align="center" valign="middle">
+<p align="center"><img src="assets/icons/report.png" alt="" width="44" height="44"></p>
+<p align="center"><strong>Yapılandırılmış bilgi</strong><br>Özetler ve aciliyet kategorileri, sohbeti incelenebilir bir biçime taşır.</p>
+</td>
 </tr>
 <tr>
-<td width="72" align="center"><img src="assets/icons/handoff.png" alt="" width="44" height="44"></td>
-<td><strong>Bağlantılı aktarım</strong><br>Doktorlar arası aktarımda görüşmelerin yazarları ve geçmişi korunur.</td>
+<td align="center" valign="middle">
+<p align="center"><img src="assets/icons/handoff.png" alt="" width="44" height="44"></p>
+<p align="center"><strong>Bağlantılı aktarım</strong><br>Doktorlar arası aktarımda görüşmelerin yazarları ve geçmişi korunur.</p>
+</td>
 </tr>
 </table>
 
@@ -50,7 +59,7 @@ Takip soruları, değerlendirme tamamlanmadan önce kurgusal senaryonun bağlam�
 ![Kurgusal test mesajlarıyla hasta sohbeti](assets/screenshots/patient-chat-tr-desktop.png)
 
 <details>
-<summary><strong>Mobil sohbeti görüntüle</strong></summary>
+<summary>&nbsp; &nbsp; <strong>Mobil sohbeti görüntüle</strong></summary>
 
 <p align="center"><img src="assets/screenshots/patient-chat-tr-mobile.png" alt="Kurgusal test mesajlarıyla mobil hasta sohbeti" width="390"></p>
 
@@ -64,10 +73,11 @@ Takip soruları, değerlendirme tamamlanmadan önce kurgusal senaryonun bağlam�
 
 ### 03 · Gizlilik tercihleri
 
-<img src="assets/icons/privacy.png" alt="" width="36" height="36"> &nbsp; **Dışa aktarma, izni geri çekme ve silme talebi ayrı işlemlerdir.**
+<p align="center"><img src="assets/icons/privacy.png" alt="" width="36" height="36"></p>
+<p align="center"><strong>Dışa aktarma, izni geri çekme ve silme talebi ayrı işlemlerdir.</strong></p>
 
 <details>
-<summary><strong>Gizlilik Merkezi'ni incele</strong></summary>
+<summary>&nbsp; &nbsp; <strong>Gizlilik Merkezi'ni incele</strong></summary>
 
 *Bu yerel testte izin geri çekilmiştir. Diğer gizlilik kontrolleri erişilebilir kalır.*
 
@@ -87,7 +97,8 @@ Model kullanımı sınırlıdır; bakım veya kullanım sınırları nedeniyle d
 
 ## Teknik odak
 
-<img src="assets/icons/engineering.png" alt="" width="36" height="36"> &nbsp; **TypeScript · Next.js · PostgreSQL / Supabase · Sunucu taraflı AI entegrasyonu**
+<p align="center"><img src="assets/icons/engineering.png" alt="" width="36" height="36"></p>
+<p align="center"><strong>TypeScript · Next.js · PostgreSQL / Supabase</strong><br>Sunucu taraflı AI entegrasyonu</p>
 
 - **Süreklilik:** kalıcı sohbet durumu ve bağlantılı aktarım geçmişi.
 - **Kontrollü erişim:** rol bazlı klinik iş akışları ve açık onay.
@@ -108,16 +119,17 @@ Copyright © 2026 Alhan Akdemir. Özel hak bildirimi, sınırlı tanıtım payla
 
 ## İletişim
 
-<img src="assets/icons/contact.png" alt="" width="36" height="36"> &nbsp; **Geri bildirim, iş birliği veya bir sorunuz mu var?**
+<p align="center"><img src="assets/icons/contact.png" alt="" width="36" height="36"></p>
+<p align="center"><strong>Geri bildirim, iş birliği veya bir sorunuz mu var?</strong></p>
 
-| Konu | İletişim |
-| :--- | :--- |
-| Geri bildirim, teknik sorunlar, iş birliği | [support@safesymptom.com](mailto:support@safesymptom.com) |
-| Gizlilik ve kişisel veri talepleri | [privacy@safesymptom.com](mailto:privacy@safesymptom.com) |
-| Güvenlik sorunları | [Özel bildirim yönergeleri](SECURITY.md) |
+<p align="center"><strong>Destek ve iş birliği</strong><br>Geri bildirim, teknik sorunlar ve proje görüşmeleri<br><a href="mailto:support@safesymptom.com">support@safesymptom.com</a></p>
+
+<p align="center"><strong>Gizlilik</strong><br>Gizlilik ve kişisel veri talepleri<br><a href="mailto:privacy@safesymptom.com">privacy@safesymptom.com</a></p>
+
+<p align="center"><strong>Güvenlik</strong><br><a href="SECURITY.md">Özel bildirim yönergeleri</a></p>
 
 <details>
-<summary><strong>Mevcut İletişim bölümünü görüntüle</strong></summary>
+<summary>&nbsp; &nbsp; <strong>Mevcut İletişim bölümünü görüntüle</strong></summary>
 
 Mevcut İletişim bölümü destek ve gizlilik e-posta bağlantıları sunar. Uygulama içi destek formu henüz mevcut demoda yer almaz.
 
