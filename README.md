@@ -23,7 +23,7 @@
 
 A symptom conversation is only part of a care workflow. **The context needs to travel with it.** SafeSymptom explores that connection in one application, from patient intake and assessment summaries to clinician chat and handoff.
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td align="center" valign="middle">
 <p align="center"><img src="assets/icons/conversation.png" alt="" width="44" height="44"></p>

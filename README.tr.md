@@ -23,7 +23,7 @@
 
 Semptom sohbeti, bir sağlık iş akışının yalnızca bir parçasıdır. **Toplanan bağlamın sonraki aşamalara da taşınması gerekir.** SafeSymptom bu bağlantıyı tek bir uygulamada araştırıyor: hasta girişi ve değerlendirme özetlerinden doktor sohbetine ve aktarıma kadar.
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td align="center" valign="middle">
 <p align="center"><img src="assets/icons/conversation.png" alt="" width="44" height="44"></p>
